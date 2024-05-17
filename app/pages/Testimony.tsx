@@ -48,6 +48,7 @@ const Testimony = () => {
                 <div className="flex flex-col w-full space-y-4 lg:w-[200px] items-center text-center">
                   <Image
                     src={kid.src}
+                    alt="kid"
                     className="w-[40%] lg:hidden"
                     width={100}
                     height={100}

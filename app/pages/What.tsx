@@ -7,7 +7,7 @@ const What = () => {
   return (
     <div className="py-5 min-h-[50vh] w-full flex justify-center items-center">
       <div className="xl:w-[65%] w-[90%] grid lg:grid-cols-2 items-center gap-10">
-        <Image src={img.src} width={1000} height={1000} />
+        <Image src={img.src} alt="image" width={1000} height={1000} />
 
         <div className="space-y-5">
           <h1 className="text-[40px] font-semibold">What’s inside each box?</h1>

@@ -17,6 +17,7 @@ const Banner = () => {
 
         <div className="lg:w-1/2 flex justify-center h-full">
           <Image
+            alt="lady"
             src={lady.src}
             height={1000}
             className="h-[45vh] w-full object-contain scale-110"
