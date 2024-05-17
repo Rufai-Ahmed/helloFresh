@@ -12,7 +12,7 @@ const Footer = () => {
 
   return (
     <div className="flex flex-col items-center w-full min-h-[45vh] pt-10">
-      <div className="xl:w-[65%]  w-full lg:flex gap-8 flex-wrap pb-10 justify-center">
+      <div className="2xl:w-[65%] w-[90%]  lg:flex gap-6 flex-wrap pb-10 justify-center">
         {footData.map((el: iFoot, i: number) => (
           <div className="space-y-4" key={i}>
             <h5
