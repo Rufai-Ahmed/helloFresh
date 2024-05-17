@@ -60,10 +60,10 @@ const Footer = () => {
       </div>
 
       <div className="min-h-[70px] py-5 lg:py-0 border-t w-full flex justify-center items-center flex-wrap">
-        <div className="w-[65%] lg:flex block items-center lg:justify-between">
-          <div className="lg:flex block text-center lg:text-start items-center gap-16">
+        <div className="md:w-[65%] lg:flex block items-center lg:justify-between">
+          <div className="lg:flex block text-center lg:text-start items-center md:gap-16">
             <div>© HelloFresh 2024</div>
-            <div className="flex gap-5 underline my-3 justify-center text-green-800">
+            <div className="flex gap-4 flex-wrap underline my-3 justify-center text-green-800">
               <div>Terms and Conditions</div>
               <div>Privacy</div>
               <div>Accessibility</div>

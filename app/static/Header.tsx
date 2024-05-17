@@ -43,7 +43,7 @@ const Header = () => {
               {navData.map((el: iNav, i: number) => (
                 <nav
                   key={i}
-                  className="text-[15px] transition-all duration-300 hover:bg-green-100 hover:text-green-700 px-4 h-[60px] cursor-pointer flex font-semibold items-center gap-1 relative"
+                  className="text-[15px] transition-all duration-300 hover:bg-green-100 hover:text-green-700 px-4 h-[50px] cursor-pointer flex font-semibold items-center gap-1 relative"
                   onMouseEnter={() => handleMouseEnter(i)}
                   onMouseLeave={handleMouseLeave}
                 >

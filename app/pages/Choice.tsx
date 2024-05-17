@@ -14,9 +14,15 @@ const Choice = () => {
     pagination: { type: "bullets" },
     modules: [Navigation, Pagination],
     spaceBetween: 5,
-    slidesPerView: 2,
+    slidesPerView: 1,
 
     breakpoints: {
+      320: {
+        slidesPerView: 1,
+      },
+      500: {
+        slidesPerView: 2,
+      },
       768: {
         slidesPerView: 3,
       },
@@ -67,11 +73,11 @@ const Choice = () => {
         </div>
 
         <div className="xl:bg-market rounded-md mt-5 bg-[#d2fa96] flex items-center w-full h-[140px] bg-marketMob bg-contain bg-no-repeat bg-right">
-          <div className="ml-5 w-[70%] space-y-2 lg:space-y-0 lg:w-[50%]">
-            <h3 className="text-[26px] leading-tight font-bold">
+          <div className="ml-2 sm:ml-5 w-[70%] space-y-2 lg:space-y-0 lg:w-[50%]">
+            <h3 className="text-[18px] sm:text-[26px] leading-tight font-bold">
               Everything You Need, All In One Box
             </h3>
-            <p className="font-semibold leading-tight">
+            <p className="font-semibold leading-tight text-sm sm:text-base">
               The best of meal kits and online grocery shopping, streamlined
               into one weekly box.
             </p>
