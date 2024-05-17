@@ -38,10 +38,10 @@ const Choice = () => {
 
         <div className="flex gap-3 mt-10">
           <Swiper
-            style={{
-              "--swiper-navigation-color": "green",
-              "--swiper-navigation-sides-offset": "10px",
-            }}
+            // style={{
+            //   "--swiper-navigation-color": "green",
+            //   "--swiper-navigation-sides-offset": "10px",
+            // }}
             {...swiperParams}
             className="h-[300px] -z-10"
           >
