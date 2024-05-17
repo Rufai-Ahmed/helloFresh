@@ -200,8 +200,8 @@ export const footData: iFoot[] = [
       <div className="no-underline">
         Manage your deliveries from anywhere, anytime.
         <div className="flex gap-4 items-center mt-5">
-          <Image src={appsto} width={120} height={100} />
-          <Image src={gplay} width={120} height={100} />
+          <Image alt="dhuwhiwj" src={appsto} width={120} height={100} />
+          <Image alt="dhuwhiwj" src={gplay} width={120} height={100} />
         </div>
       </div>
     ),
