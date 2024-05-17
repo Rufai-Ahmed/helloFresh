@@ -27,7 +27,7 @@ const Header = () => {
 
   return (
     <>
-      {menuOpen && <Sider menuOpen={menuOpen} setMenuOpen={setMenuOpen} />}
+      <Sider menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <div className="w-full items-center justify-center flex h-[50px] bg-white shadow-md fixed z-50 ">
         <div className="xl:w-[96%] w-full h-full flex gap-5 items-center justify-between">
           <div

@@ -13,12 +13,14 @@ const Sider: FC<iSider> = ({ menuOpen, setMenuOpen }) => {
   return (
     <div className="transition-all duration-300 md:hidden">
       <div
-        className="w-full z-[100000] md:hidden h-screen fixed bg-[rgba(0,0,0,0.5)] cursor-pointer"
+        className={`w-full z-[100000] md:hidden h-screen fixed bg-[rgba(0,0,0,0.5)] cursor-pointer ${
+          menuOpen ? "block" : "hidden"
+        }`}
         onClick={() => setMenuOpen!(false)}
       ></div>
       <div
         className={`w-[250px] overflow-hidden flex flex-col items-center bg-white fixed h-screen py-10 z-[9999999] transition-all duration-300 ${
-          menuOpen ? "left-0" : "left-[0px]"
+          menuOpen ? "left-0" : "-left-[4000px]"
         }`}
       >
         <Button text="Log in" className="w-[90%] mb-10" />
