@@ -186,11 +186,11 @@ export const footData: iFoot[] = [
     h5: "Payment Methods",
     divs: (
       <div className=" flex-wrap w-[150px] lg:grid flex lg:grid-cols-2">
-        <Image src={mastercard} width={100} height={100} />
-        <Image src={visa} width={100} height={100} />
-        <Image src={discover} width={100} height={100} />
+        <Image alt="jbdfjwn" src={mastercard} width={100} height={100} />
+        <Image alt="jbdfjwn" src={visa} width={100} height={100} />
+        <Image alt="jbdfjwn" src={discover} width={100} height={100} />
         {/* <Image src={express} width={100} height={100} /> */}
-        <Image src={paypal} width={100} height={100} />
+        <Image alt="jbdfjwn" src={paypal} width={100} height={100} />
       </div>
     ),
   },
