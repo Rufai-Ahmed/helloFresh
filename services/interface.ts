@@ -10,7 +10,7 @@ export interface iNav {
 }
 
 export interface iWhy {
-  img?: StaticImageData;
+  img?: any;
   boldTxt?: string;
   text?: string;
 }

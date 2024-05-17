@@ -46,12 +46,7 @@ const Why = () => {
           {whyData.map((el: iWhy, i: number) => (
             <SwiperSlide key={i} className="">
               <div className="flex flex-col w-[300px] min-h-[200px] space-y-3 items-center text-center">
-                <Image
-                  alt={"ewqw"}
-                  src={el?.img?.src}
-                  height={100}
-                  width={100}
-                />
+                <Image alt={"ewqw"} src={el.img.src} height={100} width={100} />
                 <h5 className="font-bold text-[16px]">{el.boldTxt}</h5>
                 <p className="text-[15px] w-[70%] lg:w-[80%]">{el.text}</p>
               </div>
