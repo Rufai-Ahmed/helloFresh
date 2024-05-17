@@ -4,7 +4,7 @@ import Button from "../reUsables/Button";
 const Hero = () => {
   return (
     <div className="w-full min-h-[120vh] xl:min-h-[70vh] bg-heroMob lg:bg-background lg:bg-center bg-cover flex justify-center lg:items-center bg-top text-center lg:text-start">
-      <div className="lg:w-[65%] mt-16 sm:mt-24 lg:mt-0 space-y-5">
+      <div className="lg:w-[65%] mt-[100px] sm:mt-24 lg:mt-0 space-y-5">
         <h2 className="font-mono text-[20px] sm:text-[30px] text-center lg:text-start lg:text-[40px] text-slate-900 leading-tight">
           Treat yourself with <br /> America’s #1 Meal Kit.
         </h2>
