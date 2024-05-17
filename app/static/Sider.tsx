@@ -23,8 +23,11 @@ const Sider: FC<iSider> = ({ menuOpen, setMenuOpen }) => {
       >
         <Button text="Log in" className="w-[90%] mb-10" />
 
-        {navData.map((el: iNav) => (
-          <div className="w-full px-4 py-2 flex gap-4 cursor-pointer transition-all duration-300 hover:bg-green-200 items-center">
+        {navData.map((el: iNav, i: number) => (
+          <div
+            key={i}
+            className="w-full px-4 py-2 flex gap-4 cursor-pointer transition-all duration-300 hover:bg-green-200 items-center"
+          >
             <BsNewspaper size={20} /> {el.text}
           </div>
         ))}

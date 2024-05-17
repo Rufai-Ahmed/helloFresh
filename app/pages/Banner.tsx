@@ -9,7 +9,7 @@ const Banner = () => {
       <div className="xl:w-[65%] w-[90%] flex-wrap flex h-full items-center">
         <div className="space-y-10 lg:w-1/2">
           <h2 className="text-[40px] leading-snug">
-            Start cooking Keke Palmer's favorite guilt-free meals today.
+            Start cooking Keke Palmer&apos;s favorite guilt-free meals today.
           </h2>
 
           <Button text="Get Offer" className="text-white bg-green-800" />

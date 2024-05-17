@@ -44,11 +44,8 @@ const Testimony = () => {
         >
           <div className="flex flex-wrap w-full justify-between">
             {Array.from({ length: 4 }).map((el: unknown, i: number) => (
-              <SwiperSlide>
-                <div
-                  key={i}
-                  className="flex flex-col w-full space-y-4 lg:w-[200px] items-center text-center"
-                >
+              <SwiperSlide key={i}>
+                <div className="flex flex-col w-full space-y-4 lg:w-[200px] items-center text-center">
                   <Image
                     src={kid.src}
                     className="w-[40%] lg:hidden"
