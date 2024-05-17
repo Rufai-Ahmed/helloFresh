@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="47px" viewBox="0 0 188 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>illustration</title>
+    <g id="UK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1200-Plans-Page---meal-information" transform="translate(-911.000000, -234.000000)">
+            <g id="Dialog-/-C-Mobile-/-Confirmation-/-Long-CTAs-(vertical)" transform="translate(831.000000, 200.000000)">
+                <g id="illustration" transform="translate(80.000000, 34.000000)">
+                    <g id="Group-35" transform="translate(0.000000, 7.700000)">
+                        <g id="Group-5" transform="translate(0.000000, 2.200000)" fill="#4C4D4D" font-family="SourceSansPro-SemiBold, Source Sans Pro" font-size="35.2" font-weight="500" line-spacing="26.4">
+                            <g id="Group-19">
+                                <text id="1">
+                                    <tspan x="-2.46380694e-12" y="35">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-28" transform="translate(25.300000, 0.000000)">
+                            <path d="M0,15.7986893 C0,7.07275008 7.07275008,0 15.79776,0 C24.5227699,0 31.59552,7.07275008 31.59552,15.7986893 C31.59552,24.5236992 24.5227699,31.5964493 15.79776,31.5964493 C7.07275008,31.5964493 0,24.5236992 0,15.7986893 Z" id="Stroke-3" stroke="#4C4D4D" stroke-width="2.3232" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M17.1595052,24.2711765 C21.7157338,24.2711765 25.41,20.1913234 25.41,15.161016 C25.41,10.1298531 21.7157338,6.05 17.1595052,6.05 C12.6032766,6.05 8.91,10.1298531 8.91,15.161016 C8.91,20.1913234 12.6032766,24.2711765 17.1595052,24.2711765" id="Fill-8" fill="#A8C695"></path>
+                            <path d="M6.05,15.7302847 C6.05,10.3836655 10.3837929,6.05 15.73,6.05 C21.0762071,6.05 25.41,10.3836655 25.41,15.7302847 C25.41,21.0763345 21.0762071,25.41 15.73,25.41 C10.3837929,25.41 6.05,21.0763345 6.05,15.7302847 Z" id="Stroke-3" stroke="#4C4D4D" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                    <g id="Group-9" transform="translate(72.600000, 9.900000)">
+                        <g id="Group-6"></g>
+                        <g id="Group-10" transform="translate(18.057741, 18.380000) rotate(90.000000) translate(-18.057741, -18.380000) translate(11.557741, 8.380000)" stroke="#4C4D4D" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon id="Stroke-7" stroke-width="2.5344" points="8.85240576 19.1168507 12.5698637 19.1168507 12.5698637 0.045997568 8.85240576 0.045997568"></polygon>
+                            <polygon id="Stroke-8" stroke-width="2.5344" points="0.67339008 19.1168507 4.390848 19.1168507 4.390848 0.045997568 0.67339008 0.045997568"></polygon>
+                            <polygon id="Stroke-9" stroke-width="1.52064" points="8.85240576 19.1168507 12.5698637 19.1168507 12.5698637 0.045997568 8.85240576 0.045997568"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-34" transform="translate(123.200000, 0.000000)">
+                        <g id="Group-7-Copy" transform="translate(0.000000, 11.000000)" fill="#4C4D4D" font-family="SourceSansPro-SemiBold, Source Sans Pro" font-size="35.2" font-weight="500" line-spacing="26.4">
+                            <g id="Group-19">
+                                <text id="1">
+                                    <tspan x="0" y="35">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-16" transform="translate(19.800000, 0.000000)">
+                            <path d="M23.0997361,20.494496 C25.5297247,20.494496 27.5,17.13712 27.5,12.9976 C27.5,8.857376 25.5297247,5.5 23.0997361,5.5 C20.6697475,5.5 18.7,8.857376 18.7,12.9976 C18.7,17.13712 20.6697475,20.494496 23.0997361,20.494496" id="Fill-8" fill="#A8C695"></path>
+                            <g id="Group-7" transform="translate(7.700000, 5.500000)">
+                                <path d="M8.1659776,7.672896 C8.1659776,3.532672 10.7933056,0.176 14.0352256,0.176 C17.2757376,0.176 19.9037696,3.532672 19.9037696,7.672896 C19.9037696,11.81312 17.2757376,15.169088 14.0352256,15.169088 C10.7933056,15.169088 8.1659776,11.81312 8.1659776,7.672896 Z" id="Stroke-1" stroke="#4C4D4D" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M27.5833947,26.6526508 L27.534224,26.6325717 L28.6,26.6191856 L28.2908389,22.8491745 C27.8987022,19.8470385 23.5917541,16.5 20.5333333,16.5 L17.7545712,17.9171007 C16.0421998,18.7908476 15.7412338,19.9267467 13.9975161,19.1150625 L10.741183,17.6 C7.68337693,17.6 5.10068321,19.8470385 4.70854647,22.8491745 L4.4,26.9100289 L4.4178244,26.9094205 L4.4178244,27.0341545 C6.19104462,29.259897 9.5555533,31.9 16.2390877,31.9 C22.7419196,31.9 26.1445356,29.259897 28.6,26.6191856 L27.5833947,26.6526508 Z" id="Fill-10" fill="#A8C695"></path>
+                                <path d="M0.1758592,26.9215232 L0.1758592,26.9215232 L0.5292672,22.2230272 C0.9791232,18.7501952 3.9366272,16.1496192 7.4390272,16.1496192 L11.1688192,17.9025792 C13.1667712,18.8417152 15.4864512,18.7994752 17.4484992,17.7892352 L20.6312832,16.1496192 C24.1329792,16.1496192 27.0911872,18.7501952 27.5403392,22.2230272 L27.8951552,26.5850112" id="Stroke-3" stroke="#4C4D4D" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M27.8951552,26.5853632 C25.0826752,29.6407232 21.1846272,32.6953792 13.7363072,32.6953792 C6.0817152,32.6953792 2.2280192,29.6407232 0.1955712,27.0654912" id="Stroke-5" stroke="#4C4D4D" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
